@@ -19,7 +19,6 @@ import org.springframework.context.annotation.ComponentScan;
 @ComponentScan("com.wiggin.springboot.demo.*")
 public class Main {
     public static void main(String[] args) {
-		“123123123”
         SpringApplication.run(Main.class);
     }
 }
